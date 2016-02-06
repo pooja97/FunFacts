@@ -23,12 +23,6 @@ public class funfactsActivity extends AppCompatActivity {
     ColorWheel mColorWheel = new ColorWheel();
     Button factbutton;
     RelativeLayout relativeLayout;
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
