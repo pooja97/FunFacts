@@ -18,7 +18,6 @@ import android.widget.Toast;
 
 public class funfactsActivity extends AppCompatActivity {
 
-
     FactBook mFactBook = new FactBook();
     ColorWheel mColorWheel = new ColorWheel();
     Button factbutton;
